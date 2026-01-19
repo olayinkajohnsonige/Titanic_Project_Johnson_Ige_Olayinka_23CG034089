@@ -2,5 +2,5 @@ Name: Johnson Ige Olayinka
 Matric Number: 23CG034089
 Machine Learning Algorithm Used: Logistic Regression
 Model persistence method used: Joblib
-Live URL: (We will get this in the next step)
+Live URL: https://titanic-project-johnson-ige-olayinka.onrender.com/
 GitHub repository link: https://github.com/olayinkajohnsonige/Titanic_Project_Johnson_Ige_Olayinka_23CG034089
